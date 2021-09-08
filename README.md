@@ -1,4 +1,4 @@
-# NoJS-Tic-Tac-Toe
+# NoJS TicTacToe
 
 <img src="https://raw.githubusercontent.com/ytiamahtrap/NoJS-Tic-Tac-Toe/main/tictactoe.png" align="right"
      alt="Waterfall Layout" width="30%">
